@@ -1,1 +1,1 @@
-# java-follow-along-bst
+# java-bst
